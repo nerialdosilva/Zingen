@@ -20,7 +20,7 @@
     --text-color-secondary: #A1A1AA;
     --text-color-primary: #F4F4F5;
     --brand-color-primary: #F7B733;
-    --brand-color-secondar: #FC4A1A;
+    --brand-color-secondary: #FC4A1A;
 
     --ff-sans:"inter", system-ui, sans-serif; /*Ó buscado é o inter caso não encontre busque de acordo com o padrão do sistema ou sans-serif mesmo. */
     --fw-base: 400;
