@@ -48,9 +48,9 @@
 
     &::before {
         content:"" ;
-        position: absolute;
+        position: absolute; /* Possição absoluta em relação (position:relative a cima)*/
         border-radius: inherit;
-        inset: 1.5px;
+        inset: 0.09375rem;
         background-color: var(--bg-color);
     }
 
